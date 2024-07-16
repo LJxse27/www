@@ -1,0 +1,22 @@
+---
+title: "Lissandro Alvarado"
+about: 
+  template: jolla
+  image: assets/Headshot.jpeg 
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:lissandrojose27@gmail.com
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/LJxse27 
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lissandro-alvarado27/
+      target: _blank
+      
+---
+
+Welcome to my website! Business Analytics student at Bucknell University. 

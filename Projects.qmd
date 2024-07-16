@@ -1,0 +1,7 @@
+---
+title: "Projects"
+listing:
+  contents: Finalized_Projects
+---
+
+Check out my projects!

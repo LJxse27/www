@@ -1,0 +1,43 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+  
+
+website:
+  title: "Lissandro"
+  navbar:
+    background: "#003865"
+    foreground: "#FFFFFF"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Projects.qmd
+        text: Projects
+      
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lissandro-alvarado27/
+        target: _blank
+      - text: "{{< iconify simple-icons:tableau >}}"
+        href: https://public.tableau.com/app/profile/lissandro.alvarado/vizzes
+        target: _blank
+      - icon: github
+        href: https://github.com/LJxse27 
+        target: _blank
+      - icon: file-pdf
+        href: assets/Lissandro_Alvarado_Resume(Spring 2024).pdf
+        target: _blank
+        
+        
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+
+
+

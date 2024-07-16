@@ -1,0 +1,9 @@
+/*-- scss:defaults --*/
+// Define custom styles
+$navbar-hl: #CCCCFF; // Example custom variable
+
+// Apply highlight color to text
+::selection {
+  background: #CCCCFF; // Highlight color
+  color: #fff; // Text color when highlighted (optional)
+}

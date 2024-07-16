@@ -1,0 +1,21 @@
+---
+title: "EDA Project - SURE 2024"
+description: "Project about doing EDA and stuff"
+date: July 2024
+about:
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/LJxse27"
+      target: _blank
+    - icon: laptop
+      text: Slides
+      #href: 
+    - icon: file-earmark-richtext
+      text: Poster
+    - icon: pen
+      text: Report
+---
+

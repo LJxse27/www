@@ -1,0 +1,22 @@
+---
+title: "Capstone"
+description: "Capstone project modeling and predicting socioeconomic factors influencing premature deaths in the US for SURE 2024 At Carnegie Mellon University"
+date: July 2024
+about:
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/LJxse27"
+      target: _blank
+    - icon: laptop
+      text: Slides
+      #href: 
+    - icon: file-earmark-richtext
+      text: Poster
+    - icon: pen
+      text: Report
+    
+---
+
