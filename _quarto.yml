@@ -4,7 +4,7 @@ project:
   output-dir: docs
   
 
-website:
+website: 
   title: "Lissandro"
   navbar:
     background: "#003865"
