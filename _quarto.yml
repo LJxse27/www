@@ -14,6 +14,8 @@ website:
         text: Home
       - href: Projects.qmd
         text: Projects
+      - href: assets/Lissandro_Alvarado_Resume(Summer 2024).pdf
+        text: Resume
       
     right: 
       - icon: linkedin
