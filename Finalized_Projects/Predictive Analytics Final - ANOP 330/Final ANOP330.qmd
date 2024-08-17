@@ -1,0 +1,16 @@
+---
+title: "Empty Shelves - Final ANOP 330"
+date: November 2023
+about:
+  template: solana
+  image: cover.png
+  links:
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/LJxse27/ANOP330_Final"
+    - icon: pen
+      text: Report
+      href: "https://github.com/LJxse27/ANOP330_Final/blob/main/ANOP%20330's%20Consulting%20Group.pdf"
+      
+---
+    

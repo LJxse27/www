@@ -4,19 +4,21 @@ description: "Capstone project modeling and predicting socioeconomic factors inf
 date: July 2024
 about:
   template: solana
-  image: cover.jpg
+  image: cover.png
   links:
-    - icon: github
-      text: "GitHub"
-      href: "https://github.com/LJxse27"
-      target: _blank
+    # - icon: github
+    #   text: "GitHub"
+    #   href: "https://github.com/LJxse27/Group-5"
+    #   target: _blank
     - icon: laptop
       text: Slides
-      #href: 
+      href: "https://www.stat.cmu.edu/cmsac/sure/2024/showcase/premature_deaths/slides.pdf"
     - icon: file-earmark-richtext
       text: Poster
+      href: "https://www.stat.cmu.edu/cmsac/sure/2024/showcase/premature_deaths/poster.pdf"
     - icon: pen
       text: Report
+      href: "https://www.stat.cmu.edu/cmsac/sure/2024/showcase/premature_deaths/report.html"
     
 ---
 
