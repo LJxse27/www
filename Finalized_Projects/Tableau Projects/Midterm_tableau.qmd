@@ -1,5 +1,6 @@
 ---
 title: "How Much Fun Are BucknellToys Delivering? - Midterm ANOP 270"
+description: "Midterm project from Data Visualization class (ANOP 270). I explored the sales and profits in the store Bucknell Toys and other relevant patterns such as inventory, sales per week, top selling toys, etc." 
 date: March 2023
 about:
   template: solana

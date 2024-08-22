@@ -1,5 +1,6 @@
 ---
 title: "The Power of Connection - Final ANOP 270"
+description: "In my final project for my data visualization class I presented a dashboard made in Tableau about the relationship between internet accessibility and education, and how the access to internet influence human development per country between 1990 and 2020."
 date: May 2023
 about:
   template: solana

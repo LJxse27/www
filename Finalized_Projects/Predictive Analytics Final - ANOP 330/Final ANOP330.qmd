@@ -1,5 +1,6 @@
 ---
 title: "Empty Shelves - Final ANOP 330"
+description: "Final Project from Predictive Analytics class (ANOP 330). Through this project I use machine learning in Python to test multiple models, such as decision tree, KNN, Logistic regression and random forest, to see which ones have the highest succeess rate when predicting the occurance of backorder, when a customer places an order for a product that is currently unavailable in inventory."
 date: November 2023
 about:
   template: solana
