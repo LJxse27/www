@@ -1,5 +1,5 @@
 ---
-title: "Capstone"
+title: "2 - Capstone"
 description: "Capstone project modeling and predicting socioeconomic factors influencing premature deaths in the US for SURE 2024 At Carnegie Mellon University"
 date: July 2024
 about:

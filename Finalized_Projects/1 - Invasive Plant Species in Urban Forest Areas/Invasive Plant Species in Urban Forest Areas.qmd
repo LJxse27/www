@@ -1,5 +1,5 @@
 ---
-title: "Invasive Plant Species in Urban Forest Areas - Dominguez Center for Data Science"
+title: "1 - Invasive Plant Species in Urban Forest Areas - Dominguez Center for Data Science"
 description: "This project serve to help the Forest Inventory and Analysis (FIA) explore factors that may predict the presence of invasive species. My team and I used logistic regression, decision tree and random forest to predict variables that could predict the presence of the most prevalent invasive plant species from our data."
 date: November 2024
 about:

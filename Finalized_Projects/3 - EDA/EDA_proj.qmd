@@ -1,5 +1,5 @@
 ---
-title: "EDA Project - SURE 2024"
+title: "3 - EDA Project - SURE 2024"
 description: "Through this project in the SURE program from Carnegie Mellon, my team and I were able to do a Exploratory Data Analysis in R to understand the relationship and patterns between Covid cases and deaths in PA during the year 2020 using cluster analysis, bivariate cheropleth map and overtime bar charts."
 date: June 2024
 about:
