@@ -14,7 +14,7 @@ website:
         text: Home
       - href: Projects.qmd
         text: Projects
-      - href: assets/Lissandro_Alvarado_Resume(Summer 2024).pdf
+      - href: assets/Lissandro_Alvarado_Resume.pdf
         text: Resume
       
     right: 
@@ -28,7 +28,7 @@ website:
         href: https://github.com/LJxse27 
         target: _blank
       - icon: file-pdf
-        href: assets/Lissandro_Alvarado_Resume(Summer 2024).pdf
+        href: assets/Lissandro_Alvarado_Resume.pdf
         target: _blank
         
         
